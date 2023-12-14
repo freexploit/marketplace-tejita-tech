@@ -25,7 +25,7 @@
             }
         }
         .sidebar-brand {
-            @apply flex items-center h-[70px] py-2.5 px-5;
+            @apply flex items-center h-[150px] py-2.5 px-5 m-4;
             > a {
                 @apply uppercase font-bold flex-grow duration-500;
                 &:focus {
