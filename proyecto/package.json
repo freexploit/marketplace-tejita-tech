@@ -41,9 +41,9 @@
 		"@iconscout/unicons": "^4.0.8",
 		"@mdi/font": "^7.2.96",
 		"feather-icons": "^4.29.0",
+		"js-datepicker": "^5.18.2",
 		"shufflejs": "^6.1.0",
 		"simplebar": "^5.3.9",
-		"js-datepicker": "^5.18.2",
 		"tobii": "^2.0.0-alpha"
 	}
 }
